@@ -1,0 +1,5 @@
+/Users/MGS/Projects/GlobalStorageSolutions/GlobalStorageSolutions/bin/Debug/GlobalStorageSolutions.exe
+/Users/MGS/Projects/GlobalStorageSolutions/GlobalStorageSolutions/bin/Debug/GlobalStorageSolutions.pdb
+/Users/MGS/Projects/GlobalStorageSolutions/GlobalStorageSolutions/obj/Debug/GlobalStorageSolutions.csproj.CoreCompileInputs.cache
+/Users/MGS/Projects/GlobalStorageSolutions/GlobalStorageSolutions/obj/Debug/GlobalStorageSolutions.exe
+/Users/MGS/Projects/GlobalStorageSolutions/GlobalStorageSolutions/obj/Debug/GlobalStorageSolutions.pdb
